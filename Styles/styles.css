@@ -1,0 +1,93 @@
+*{font-family: 'Poppins', sans-serif;}
+
+.body {
+    width: 1400px;
+    height: 3843px;
+    background-color: #FFFFFF;
+}
+
+.menu-container {
+    width: 1400px;
+    height: 78px;
+    padding: 20px;
+    display: flex;
+ /*sätt i färg för tydlighet*/
+}
+
+
+.main-title {
+max-width: 518px;
+width: 100%;
+margin-left: 145px;
+margin-top: 211px;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 44px;
+line-height: 54px;
+color: #2F281E;  
+}
+
+.main-info {
+max-width: 458px;
+width: 100%;
+margin-left: 145px;
+margin-top: 30px;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 28px;
+color: #544837;
+}
+
+section {
+    display: inline-block;
+   }
+
+.sign-up-btn {
+background-color: #FF9900;
+border-radius: 4px;
+border: none;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+color: #FFFFFF;
+}
+
+.sign-in-btn {
+    font-family: 'Poppins', sans-serif;
+    border: none;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #173A56;
+    background-color: #FFFFFF;
+}
+
+.get-started-btn {
+    max-width: 175px;
+    width: 100%;
+    margin-left: 145px;
+    margin-top: 45px;
+    background-color: #FF9900;
+    color: #FFFFFF;
+    border: none;
+}
+
+.p{
+    margin-left: 145px;
+    margin-top: 349px;
+    max-width: 458px;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+   line-height: 28px;
+color: #544837;
+}
+
